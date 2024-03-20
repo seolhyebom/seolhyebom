@@ -1,4 +1,4 @@
-# Seolhyebom
+# Seolhyebom
 Seolhyebom 공식 깃허브에 오신 것을 환영합니다!
 
 ## 개요
